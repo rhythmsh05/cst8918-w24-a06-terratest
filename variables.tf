@@ -5,7 +5,7 @@ variable "labelPrefix" {
 }
 
 variable "region" {
-  default = "westus3"
+  default = "EastUS"
 }
 
 variable "admin_username" {
